@@ -482,7 +482,8 @@ return 0;
 OUTPUT :
 
 
-![CRYPO 4](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/69c959ff-a195-4aea-bcb8-9469e8fca47d)
+
+![4 CRYPTO](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/ca109a6b-ac04-43d3-878a-2700223ba4cd)
 
 
 RESULT :
