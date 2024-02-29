@@ -77,7 +77,8 @@ return 0;
 
 OUTPUT :
 
-<img width="365" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/d38dd9a3-4ac3-421b-af80-0240df7aa8c9">
+![1 ](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/b12bc5ed-e7f6-4ff1-80ee-77b2779f6f08)
+
 
 
 
