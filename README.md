@@ -481,7 +481,8 @@ return 0;
 
 OUTPUT :
 
-<img width="383" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/85dfb811-5c60-48fe-be02-504953d0fb47">
+
+![CRYPO 4](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/69c959ff-a195-4aea-bcb8-9469e8fca47d)
 
 
 RESULT :
@@ -579,7 +580,8 @@ return 0;
 
 OUTPUT :
 
-<img width="347" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/2f7866e5-d770-4600-9b0d-41efac2debf9">
+
+![CRYPOTO 5](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/13809b1d-49f6-4ef7-adf6-26a9040e36ed)
 
 
 
