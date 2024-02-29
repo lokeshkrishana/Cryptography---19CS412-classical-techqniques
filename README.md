@@ -259,7 +259,8 @@ return 0;
 
 OUTPUT :
 
-<img width="356" alt="image" src="https://github.com/AlluguriSrikrishnateja/cryptography_19CS412_classical_techniques/assets/118343892/dc34a668-eaa6-43ef-ad40-c2e971429816">
+
+![2](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/20aba93c-3e9a-41dd-a179-b6e54e9249d4)
 
 
 
