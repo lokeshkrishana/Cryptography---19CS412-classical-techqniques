@@ -79,7 +79,8 @@ OUTPUT :
 
 
 
-![2](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/f8787669-28a4-4b1f-898a-766caca4d7a1)
+
+![1 ](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/a3a37cbc-a06e-4d43-bb53-5758f33ce855)
 
 
 
