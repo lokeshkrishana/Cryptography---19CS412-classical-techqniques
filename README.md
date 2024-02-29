@@ -77,7 +77,9 @@ return 0;
 
 OUTPUT :
 
-![1 ](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/b12bc5ed-e7f6-4ff1-80ee-77b2779f6f08)
+
+
+![2](https://github.com/lokeshkrishana/Cryptography---19CS412-classical-techqniques/assets/119291430/f8787669-28a4-4b1f-898a-766caca4d7a1)
 
 
 
